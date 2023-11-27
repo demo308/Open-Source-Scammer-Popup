@@ -32,3 +32,4 @@ To modify this any further, you will have to at least know [HTML](https://www.co
 3. **Enter the FTP info.** It should be provided by whichever hosting service you're using.
 4. **Drag the files into the correct location on the server.** Your hosting service should explain where to upload them.
 5. **Now go to your website link and it should work!**
+use vercel for an easy way
